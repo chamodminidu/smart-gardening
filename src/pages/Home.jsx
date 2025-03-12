@@ -2,6 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/styles.css'; 
 
+//Import 
+
 const Home = () => {
     return (
         <div className="min-vh-100 d-flex flex-column justify-content-center align-items-center bg-green-gradient text-center text-white">
